@@ -1,2 +1,2 @@
 # Especialization
-The currently repository shows my evolution thrue the Data Science Especialization, beginning in 14/02/2022. 
+The current repository shows my evolution through the Data Science Specialization, starting on 02/14/2022.
