@@ -15,7 +15,7 @@ The map of this project is defined by libraries by porpose:
   *Scipy,
   *Sympy.
   
-  Data visualization
+  Data visualization:
   *Matplotlib,
   *Seaborn,
   *Cuffling,
