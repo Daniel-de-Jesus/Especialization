@@ -13,7 +13,8 @@ The map of this project is defined by libraries by porpose:
   
   Math:
   *Scipy,
-  *Sympy.
+  *Sympy,
+  *Numpy.
   
   Data visualization:
   *Matplotlib,
