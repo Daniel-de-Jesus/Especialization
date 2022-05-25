@@ -21,3 +21,6 @@ The map of this project is defined by libraries by porpose:
   *Seaborn,
   *Cuffling,
   *Plotly.
+  
+  Machine Learning
+  *Scikit-Learn
